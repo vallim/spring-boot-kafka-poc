@@ -1,4 +1,4 @@
-package com.example.springbootkafkapoc;
+package com.vallim.kafkapoc;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
